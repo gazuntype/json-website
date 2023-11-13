@@ -1,0 +1,10 @@
+{
+  "title": "Join the waitlist",
+  "subtitle": "Get notified when Home VR launches!",
+  "description": "I promise not to bombard you with emails. You will only receive notifications about Home VR that are worth reading",
+  "buttonText": "Submit",
+  "modal": {
+    "title": "You're In! 🎉",
+    "subtitle": "We just sent you an email to confirm."
+  }
+}

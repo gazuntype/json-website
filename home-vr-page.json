@@ -1,0 +1,32 @@
+{
+  "title": "HOME VR",
+  "subtitle": "Survival is the only aim",
+  "heroImages": [
+    "https://res.cloudinary.com/dnrdflnpp/image/upload/v1695307269/ojujuGrass_34_kh6aji.png",
+    "https://res.cloudinary.com/dnrdflnpp/image/upload/v1690234837/home-vr-page/title_031_0328_square_f2pkvj.png",
+    "https://res.cloudinary.com/dnrdflnpp/image/upload/v1695307374/babaLightning34_h9aedx.png"
+  ],
+  "sectionImages": [
+    {
+      "image": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1690236529/home-vr-page/two-bush_square_jzby1n.png",
+      "title": "Home VR",
+      "subtitle": "Stealth at its peak"
+    },
+    {
+      "image": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1690237342/home-vr-page/Okhue34_afktnh.png",
+      "title": "Built specifically for VR",
+      "subtitle": "Home fully immerses you in the struggles of an unsuspecting little girl"
+    },
+    {
+      "image": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1690234812/home-vr-page/ojuju1_hvqaic.png",
+      "title": "Unique in every way",
+      "subtitle": "Compelling story, uncommon enemy types, unexpected gameplay mechanics"
+    }
+  ],
+  "youtubeEmbedId": "a7Blzy-EXxI",
+  "socialLinks": {
+    "email": "tade@gazuntype.com",
+    "twitter": "https://twitter.com/homeVRgame",
+    "github": "https://github.com/Gazuntype"
+  }
+}
