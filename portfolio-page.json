@@ -2,7 +2,8 @@
   {
     "color": "#DB4F00",
     "title": "Shooter Arena",
-    "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218277/shooter-arena.png",
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715945755/ShooterArena_afevyw.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715945753/shooterArena_t8qof9.png",
     "textColor": "#DB4F00",
     "modalColor": "#B23600",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
@@ -15,7 +16,7 @@
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218286/soccer-battle.png",
     "textColor": "#148D00",
     "modalColor": "#56954B",
-    "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
+    "description": "Soccer Battle is the ultimate online soccer game. It brings you an unrivaled international football experience right on your mobile device. With its state-of-the-art online matchmaking system, you can play against players from all around the world to test your skills on the field.\nI worked with DoubleTap Softwares to implement some of its core social features and gameplay modifications.",
     "backgroundColor": "#041C00"
   },
   {
