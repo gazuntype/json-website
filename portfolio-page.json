@@ -1,14 +1,27 @@
 [
   {
-    "color": "#000000",
+    "color": "#FFFFFF",
     "title": "Home VR",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715949060/Home_GIF_np3lqw.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715947476/Home_Main_Capsule_ggmmo4.jpg",
-    "textColor": "#F7FFF6",
+    "textColor": "#23C9FF",
     "modalColor": "#727072",
+    "titleColor": "#000000",
     "description": "Home is an african-themed VR horror game where the player is a defenceless little girl who can only use magic (Juju) to hide from monsters within walls and objects",
     "youtubeEmbedId": "kBTsZwTW18s",
     "backgroundColor": "#000000"
+  },
+  {
+    "color": "#C884A6",
+    "title": "Home VR Test Abeg",
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715949060/Home_GIF_np3lqw.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715947476/Home_Main_Capsule_ggmmo4.jpg",
+    "textColor": "#CCD5FF",
+    "modalColor": "#62BEC1",
+    "titleColor": "#646881",
+    "description": "Home is an african-themed VR horror game where the player is a defenceless little girl who can only use magic (Juju) to hide from monsters within walls and objects",
+    "youtubeEmbedId": "kBTsZwTW18s",
+    "backgroundColor": "#404E4D"
   },
   {
     "color": "#DB4F00",
