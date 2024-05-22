@@ -1,15 +1,15 @@
 [
   {
-    "color": "#FFFFFF",
+    "color": "63595C",
     "title": "Home VR",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715949060/Home_GIF_np3lqw.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715947476/Home_Main_Capsule_ggmmo4.jpg",
     "textColor": "#23C9FF",
     "modalColor": "#727072",
-    "titleColor": "#000000",
+    "titleColor": "#62BEC1",
     "description": "Home is an african-themed VR horror game where the player is a defenceless little girl who can only use magic (Juju) to hide from monsters within walls and objects",
     "youtubeEmbedId": "kBTsZwTW18s",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#646881"
   },
   {
     "color": "#C884A6",
