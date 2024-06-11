@@ -1,14 +1,14 @@
 [
   {
-    "color": "#C9EDDC",
+    "color": "#AEF6C7",
     "title": "Go North",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718119721/go-north/Go_North_GIF_ok1sai.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718117937/go-north/Main_Capsule_s5ayod.png",
-    "textColor": "#C9EDDC",
+    "textColor": "#AEF6C7",
     "titleColor": "#FFFFFF",
     "description": "Navigate beautifully unique mazes and explore numerous expansive worlds. Solve various fun and immersive mazes with the help of useful and unexpected items.",
     "youtubeEmbedId": "JdXk_HAvb8Q",
-    "backgroundColor": "#89B6A5",
+    "backgroundColor": "#294936",
     "url": "https://forms.gle/hF972Ex8dMAoYCdg6"
   },
   {
@@ -22,6 +22,18 @@
     "youtubeEmbedId": "kBTsZwTW18s",
     "backgroundColor": "#000000",
     "url": "https://store.steampowered.com/app/1888690/Home_VR/"
+  },
+  {
+    "color": "#C9EDDC",
+    "title": "Restaurant King",
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718121240/website/Restaurant_King_GIF_uolvl7.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718120935/website/restaurant_copy_dydlgw.png",
+    "textColor": "#C9EDDC",
+    "titleColor": "#FFFFFF",
+    "description": "Introducing the latest tower defense game for your mobile device: Restaurant King! Get ready to defend your territory from the hungry hordes in this exciting and addictive game.",
+    "youtubeEmbedId": "jCN4eak9Qds",
+    "backgroundColor": "#89B6A5",
+    "url": "https://apps.apple.com/us/app/forsans-restaurant-king/id6446627861"
   },
   {
     "color": "#DB4F00",
