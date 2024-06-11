@@ -24,15 +24,15 @@
     "url": "https://store.steampowered.com/app/1888690/Home_VR/"
   },
   {
-    "color": "#C9EDDC",
+    "color": "#E8985E",
     "title": "Restaurant King",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718121240/website/Restaurant_King_GIF_uolvl7.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718120935/website/restaurant_copy_dydlgw.png",
-    "textColor": "#C9EDDC",
-    "titleColor": "#FFFFFF",
+    "textColor": "#E8985E",
+    "titleColor": "#000000",
     "description": "Introducing the latest tower defense game for your mobile device: Restaurant King! Get ready to defend your territory from the hungry hordes in this exciting and addictive game.",
     "youtubeEmbedId": "jCN4eak9Qds",
-    "backgroundColor": "#89B6A5",
+    "backgroundColor": "#262A10",
     "url": "https://apps.apple.com/us/app/forsans-restaurant-king/id6446627861"
   },
   {
