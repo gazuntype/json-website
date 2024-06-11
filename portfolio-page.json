@@ -1,14 +1,15 @@
 [
   {
-    "color": "#000000",
+    "color": "#FFFFFF",
     "title": "Home VR",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715949060/Home_GIF_np3lqw.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715947476/Home_Main_Capsule_ggmmo4.jpg",
     "textColor": "#F7FFF6",
-    "modalColor": "#727072",
+    "titleColor": "#2CA8AB",
     "description": "Home is an african-themed VR horror game where the player is a defenceless little girl who can only use magic (Juju) to hide from monsters within walls and objects",
     "youtubeEmbedId": "kBTsZwTW18s",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#000000",
+    "url": "https://store.steampowered.com/app/1888690/Home_VR/"
   },
   {
     "color": "#DB4F00",
@@ -16,7 +17,6 @@
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715945755/ShooterArena_afevyw.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715945753/shooterArena_t8qof9.png",
     "textColor": "#DB4F00",
-    "modalColor": "#B23600",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "youtubeEmbedId": "XO2RXRnmX-k",
     "backgroundColor": "#150800"
@@ -26,7 +26,6 @@
     "title": "Soccer Battle",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218286/soccer-battle.png",
     "textColor": "#148D00",
-    "modalColor": "#56954B",
     "description": "Soccer Battle is the ultimate online soccer game. It brings you an unrivaled international football experience right on your mobile device. With its state-of-the-art online matchmaking system, you can play against players from all around the world to test your skills on the field.\nI worked with DoubleTap Softwares to implement some of its core social features and gameplay modifications.",
     "backgroundColor": "#041C00"
   },
@@ -35,7 +34,6 @@
     "title": "Water Bubble",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218276/water-bubble.png",
     "textColor": "#00A0EF",
-    "modalColor": "#0086C7",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "youtubeEmbedId": "YUU186NbuoU",
     "backgroundColor": "#002E44"
@@ -45,7 +43,6 @@
     "title": "Anargrams",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218276/anargrams.png",
     "textColor": "#FFFFFF",
-    "modalColor": "#000000",
     "titleColor": "#000000",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "backgroundColor": "#000000"
@@ -55,7 +52,6 @@
     "title": "LeVRn - Concepts",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218276/levrn-concepts.png",
     "textColor": "#4F6EFF",
-    "modalColor": "#850051",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "backgroundColor": "#000933"
   },
@@ -64,7 +60,6 @@
     "title": "Munch It Mania VR",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218279/munch-it.png",
     "textColor": "#DD9700",
-    "modalColor": "#062F9F",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "backgroundColor": "#251900"
   },
@@ -73,7 +68,6 @@
     "title": "Ludix",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218282/ludix.png",
     "textColor": "#309CFF",
-    "modalColor": "#0D0B62",
     "titleColor": "#000000",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "youtubeEmbedId": "bxBkcriAU6w",
@@ -84,7 +78,6 @@
     "title": "VR Baseball Training",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218282/vr-baseball.png",
     "textColor": "#347DFF",
-    "modalColor": "#0054BE",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "backgroundColor": "#00112F"
   },
@@ -93,7 +86,6 @@
     "title": "LeVRn",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218276/levrn.png",
     "textColor": "#4447FF",
-    "modalColor": "#0054BE",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "backgroundColor": "#000138"
   },
@@ -102,7 +94,6 @@
     "title": "Dano Tennis",
     "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218276/dano-tennis.png",
     "textColor": "#FF4848",
-    "modalColor": "#468939",
     "titleColor": "#000000",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "backgroundColor": "#390000"
