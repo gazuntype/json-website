@@ -1,15 +1,15 @@
 [
   {
-    "color": "#FFFFFF",
-    "title": "Home VR",
-    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715949060/Home_GIF_np3lqw.gif",
-    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715947476/Home_Main_Capsule_ggmmo4.jpg",
-    "textColor": "#F7FFF6",
-    "titleColor": "#2CA8AB",
-    "description": "Home is an african-themed VR horror game where the player is a defenceless little girl who can only use magic (Juju) to hide from monsters within walls and objects",
-    "youtubeEmbedId": "kBTsZwTW18s",
-    "backgroundColor": "#000000",
-    "url": "https://store.steampowered.com/app/1888690/Home_VR/"
+    "color": "#B0F2B4",
+    "title": "Go North",
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718118624/go-north/Go_North_GIF_yymaro.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718117937/go-north/Main_Capsule_s5ayod.png",
+    "textColor": "#B0F2B4",
+    "titleColor": "#BAD7F2",
+    "description": "Navigate beautifully unique mazes and explore numerous expansive worlds. Solve various fun and immersive mazes with the help of useful and unexpected items.",
+    "youtubeEmbedId": "JdXk_HAvb8Q",
+    "backgroundColor": "#BAF2E9",
+    "url": "https://forms.gle/hF972Ex8dMAoYCdg6"
   },
   {
     "color": "#FFFFFF",
@@ -17,7 +17,7 @@
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715949060/Home_GIF_np3lqw.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1715947476/Home_Main_Capsule_ggmmo4.jpg",
     "textColor": "#F7FFF6",
-    "titleColor": "#2CA8AB",
+    "titleColor": "#FFFFFF",
     "description": "Home is an african-themed VR horror game where the player is a defenceless little girl who can only use magic (Juju) to hide from monsters within walls and objects",
     "youtubeEmbedId": "kBTsZwTW18s",
     "backgroundColor": "#000000",
