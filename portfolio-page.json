@@ -29,7 +29,7 @@
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718121240/website/Restaurant_King_GIF_uolvl7.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718120935/website/restaurant_copy_dydlgw.png",
     "textColor": "#E8985E",
-    "titleColor": "#A9714B",
+    "titleColor": "#262A10",
     "description": "Introducing the latest tower defense game for your mobile device: Restaurant King! Get ready to defend your territory from the hungry hordes in this exciting and addictive game.",
     "youtubeEmbedId": "jCN4eak9Qds",
     "backgroundColor": "#262A10",
@@ -43,15 +43,19 @@
     "textColor": "#DB4F00",
     "description": "A competitive two player rapid shooter game where speed and accuracy are key! Play as Shooter or Defender and battle it out in an amazing arena!",
     "youtubeEmbedId": "XO2RXRnmX-k",
-    "backgroundColor": "#150800"
+    "backgroundColor": "#150800",
+    "url": "https://gazuntype.itch.io/shooter-arena"
   },
   {
-    "color": "#148D00",
+    "color": "#E8FFB7",
     "title": "Soccer Battle",
-    "imageUrl": "https://res.cloudinary.com/dlsbq5eda/image/upload/v1699218286/soccer-battle.png",
-    "textColor": "#148D00",
-    "description": "Soccer Battle is the ultimate online soccer game. It brings you an unrivaled international football experience right on your mobile device. With its state-of-the-art online matchmaking system, you can play against players from all around the world to test your skills on the field.\nI worked with DoubleTap Softwares to implement some of its core social features and gameplay modifications.",
-    "backgroundColor": "#041C00"
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718143141/website/Soccer_Battle_GIF_ii31sj.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718142471/website/SoccerBattle_vgodp8.png",
+    "textColor": "#E8FFB7",
+    "description": "Soccer Battle is the ultimate online soccer game. It brings you an unrivaled international football experience right on your mobile device.",
+    "backgroundColor": "#E2A0FF",
+    "youtubeEmbedId": "qH3taSoTpOk",
+    "url": "https://play.google.com/store/apps/details?id=com.doubletapsoftware.soccer.realtime.sports&hl=en_GB"
   },
   {
     "color": "#00A0EF",
