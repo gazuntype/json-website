@@ -2,12 +2,12 @@
   {
     "color": "#AEF6C7",
     "title": "Go North",
-    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1736944744/Go_North_GIF_New_uhnifc.gif",
-    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1719872091/go-north/KEY-VISUAL_olwocu.jpg",
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753883691/Go_North_GIF_Newer_gkhneu.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753884017/MainCapsule_1920x1080_vkwrez.png",
     "textColor": "#AEF6C7",
     "titleColor": "#FFFFFF",
-    "description": "Navigate beautifully unique mazes and explore numerous expansive worlds. Solve various fun and immersive mazes with the help of useful and unexpected items.",
-    "youtubeEmbedId": "4zMrn-bAG2Q",
+    "description": "Explore beautiful mazes, discover unique items and help other maze explorers complete unusual side quests in the first immersive maze adventure ever!",
+    "youtubeEmbedId": "6Cd2eBtyD44",
     "backgroundColor": "#294936",
     "url": "https://store.steampowered.com/app/3041730/Go_North/"
   },
@@ -24,15 +24,27 @@
     "url": "https://store.steampowered.com/app/1888690/Home_VR/"
   },
   {
-    "color": "#E8985E",
+    "color": "#8c2f96",
+    "title": "Top Spy",
+    "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753883698/Top_Spy_GIF_k73xin.gif",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753884225/TopSpy2_egjpqb.png",
+    "textColor": "#8c2f96",
+    "titleColor": "#FFFFFF",
+    "description": "Test your stealth and strategy in Top Spy, a game where every move counts as you sneak past security systems to grab confidential documents and make your escape.",
+    "youtubeEmbedId": "27msBtlUc3A",
+    "backgroundColor": "#FFFFFF",
+    "url": "https://create.viverse.com/T8sy3r4"
+  },
+  {
+    "color": "#e85e81",
     "title": "Restaurant King",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718121240/website/Restaurant_King_GIF_uolvl7.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718120935/website/restaurant_copy_dydlgw.png",
-    "textColor": "#E8985E",
-    "titleColor": "#262A10",
+    "textColor": "#e85e81",
+    "titleColor": "#FFFFFF",
     "description": "Introducing the latest tower defense game for your mobile device: Restaurant King! Get ready to defend your territory from the hungry hordes in this exciting and addictive game.",
     "youtubeEmbedId": "jCN4eak9Qds",
-    "backgroundColor": "#262A10",
+    "backgroundColor": "#37d1f0",
     "url": "https://apps.apple.com/us/app/forsans-restaurant-king/id6446627861"
   },
   {
