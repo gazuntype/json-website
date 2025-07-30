@@ -24,27 +24,27 @@
     "url": "https://store.steampowered.com/app/1888690/Home_VR/"
   },
   {
-    "color": "#8c2f96",
+    "color": "#FFFFFF",
     "title": "Top Spy",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753883698/Top_Spy_GIF_k73xin.gif",
-    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753884225/TopSpy2_egjpqb.png",
-    "textColor": "#8c2f96",
+    "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1753887303/TopSpy2_copy_uvvwqj.png",
+    "textColor": "#FFFFFF",
     "titleColor": "#FFFFFF",
     "description": "Test your stealth and strategy in Top Spy, a game where every move counts as you sneak past security systems to grab confidential documents and make your escape.",
     "youtubeEmbedId": "27msBtlUc3A",
-    "backgroundColor": "#FFFFFF",
+    "backgroundColor": "#8c2f96",
     "url": "https://create.viverse.com/T8sy3r4"
   },
   {
-    "color": "#e85e81",
+    "color": "#37d1f0",
     "title": "Restaurant King",
     "imageUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718121240/website/Restaurant_King_GIF_uolvl7.gif",
     "thumbUrl": "https://res.cloudinary.com/dnrdflnpp/image/upload/v1718120935/website/restaurant_copy_dydlgw.png",
-    "textColor": "#e85e81",
+    "textColor": "#37d1f0",
     "titleColor": "#FFFFFF",
     "description": "Introducing the latest tower defense game for your mobile device: Restaurant King! Get ready to defend your territory from the hungry hordes in this exciting and addictive game.",
     "youtubeEmbedId": "jCN4eak9Qds",
-    "backgroundColor": "#37d1f0",
+    "backgroundColor": "#e85e81",
     "url": "https://apps.apple.com/us/app/forsans-restaurant-king/id6446627861"
   },
   {
